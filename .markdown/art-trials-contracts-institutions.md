@@ -1,0 +1,2 @@
+## Art Trials, Contracts, Institutions
+Focuses on one of the abstract sites, law. Historically, how has art engaged with its ‘outside’ (or with this site of law) whether that be on trial, or more proactively through the production of contracts or institutional forms.

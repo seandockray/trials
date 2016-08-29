@@ -1,0 +1,2 @@
+## Exiting (disappearance, withdrawal, strike, post-autonomy)
+Taking up the recurrent theme of escape or exit in contemporary art, which comes as a particular form of response to entanglement. It sounds conclusive and is suited to conclusion, but I think all of the examples are quite rich and complex in their own way, in the same way that an “escape” is premised on being “trapped” (think Houdini).
