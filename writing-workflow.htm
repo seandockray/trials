@@ -28,7 +28,10 @@
 <li><a href="exiting-disappearance-withdrawal-strike-post-autonomy.htm">Exiting (disappearance, withdrawal, strike, post-autonomy)</a></li>
 </ul></li>
 <li><a href="writing-workflow.htm">Writing Workflow</a></li>
-<li>Research</li>
+<li>Research
+<ul>
+<li><a href="irit-rogoff-from-criticism-to-critique-to-criticality.htm">Irit Rogoff, “From Criticism to Critique to Criticality”</a></li>
+</ul></li>
 <li>Trash
 <ul>
 <li>Something</li>
@@ -46,7 +49,7 @@
 <h1 id="writing-workflow">Writing Workflow</h1>
 <p>I am writing the text in Pandoc Markdown in Scrivener set to use Courier 12 font. Using this formatting in Scrivener makes the interface appear more similar to a plain-text editor. With very basic formatting (bold, italics, headings, and citations) I am able to ensure that in the end I can export plain-text files from Scrivener with Markdown format.</p>
 <p>When I export every note as a plain-text file, it allows me to commit the writing to a git repository for archiving and also easy diff’ing if necessary. If I compile the writing, I still export as plain-text, but this is in preparation for one further step: conversion to a more conventional file format (for example, Microsoft Word).</p>
-<p>Conversion is done with pandoc:</p>
+<p>Conversion to Word is done with pandoc:</p>
 <pre><code>pandoc -s -S --normalize --bibliography \
 ~/Dropbox/phd\ research/Bibliography.bib \
 --csl ~/.csl/chicago-fullnote-bibliography.csl \

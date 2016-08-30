@@ -4,7 +4,7 @@ I am writing the text in Pandoc Markdown in Scrivener set to use Courier 12 font
 
 When I export every note as a plain-text file, it allows me to commit the writing to a git repository for archiving and also easy diff’ing if necessary. If I compile the writing, I still export as plain-text, but this is in preparation for one further step: conversion to a more conventional file format (for example, Microsoft Word). 
 
-Conversion is done with pandoc:
+Conversion to Word is done with pandoc:
 ```
 pandoc -s -S --normalize --bibliography \
 ~/Dropbox/phd\ research/Bibliography.bib \
