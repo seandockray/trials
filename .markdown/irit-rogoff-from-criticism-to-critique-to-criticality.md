@@ -1,2 +1,4 @@
-# From Criticism to Critique to Criticality
+## “From Criticism to Critique to Criticality” by Irit Rogoff
+
+### Notes
 
