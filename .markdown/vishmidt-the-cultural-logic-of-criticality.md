@@ -1,6 +1,15 @@
 ## “The cultural logic of criticality”[@vishmidt_cultural_2008] by Marina Vishmidt
 
+### Abstract
 > The text is concerned with charting the emergence of ‘criticality’ as a technology of legitimation and power in contemporary art institutions and proximate discourses. ‘Criticality’ is examined as a ‘cultural logic’ and compared to different philosophical iterations of critique for the correspondences and divergences. Cybernetics provides a model for analysing how critique becomes functional to the maintenance of existing states of affairs, then other potential political avenues for critique as rhetorical stance and praxis are evaluated through case studies.
+
+### Digestion
+
+A strong critique of participation/ criticality, two distinct but interrelated modes of artistic-institutional practice at the beginning of the 21st century. They perform a disruption that never overcomes the homeostatic mechanisms of the system and effectively make it more resilient while giving it the alibi of allowing dissent and the proliferation of difference. The essay argues instead that immanent critique already has a history and, although its form must change over time, still has potential to cause disturbances that lead to stoppages.
+
+On the one hand “criticality” (or even critique) has been a value-generating process in art; but on the other hand “participation” has stated a post-critical impulse (see Bourriaud quotes about “marginality” of critique) in favor of embodiment. The essay seems to propose a critique (as opposed to participation) that causes breakdowns, that disallows adaptation (as opposed to being ambiguous and ameliorative).
+
+The possibility of an ‘exit’ comes in the conclusion, described as “rupture and break as an opening for detaching and constituting on other grounds rather than ‘occupying’.” (_268_) It interestingly comes in the years before “occupy,” which is a term from Rogoff[@rogoff_smuggling_2006, 2], a popular protest movement, and also topic of an Hito Steyerl essay/performance.
 
 ### Notes
 * What Robert Smithson described as “cultural confinement” in 1972 has transformed from simple enclosure to something more adaptive, “porous and pervasive”. Now “opportunities arise for critique as a new type of added value”. _253_
@@ -11,7 +20,7 @@
 * “the path of ‘criticism’ is always open, so long as the criticism does not take up ‘class power within art institutions themselves and across the commercial sectors with which they interact’ (Davies 2007)” _255_
 * Institutions might re-distribute the resources they have to actually support communities they serve. How to open the conditions of ‘openness’ itself? _256_
 * More Smithson: “disclose the confinement rather than make illusions of freedom” _256_/CC _155_ and Vishmidt that under certain conditions, that “disclosure is the last illusion of freedom left standing” _256_
-* Addresses Irit Rogoff’s ‘criticality’[@rogoff_smuggling_2006] ([irit-rogoff-smuggling-an-embodied-criticality.htm](irit-rogoff-smuggling-an-embodied-criticality.htm)) which adopts the ambiguity and malaise of so much contemporary art (‘heightened awareness’) as opposed to criticism (demands position of authority) or critique (needs critical distance). _257_
+* Addresses Irit Rogoff’s ‘criticality’[@rogoff_smuggling_2006] ([rogoff-smuggling-an-embodied-criticality.htm](irit-rogoff-smuggling-an-embodied-criticality.htm)) which adopts the ambiguity and malaise of so much contemporary art (‘heightened awareness’) as opposed to criticism (demands position of authority) or critique (needs critical distance). _257_
 * Rogoff oversimplifies critique by reducing it to insides/outsides, and proposes a more complex definition: “a relational dynamic with room for the proximity and contamination of subjects and objects of critique” _258_
 * Points to 3 models of critique (Kant, Adorno, Marx) all of which (especially the latter two materialist ones) understand critique as “an analysis which is always implicated in its field, and a praxis which reflects the contingencies of its engagement” _258_
 * Critique - prefigurative practices (Rowbotham et al. 1979) - “be the change you want to see”
@@ -41,3 +50,4 @@
 ### Todo
 * Notes on cultural confinement (especially with respect to ‘escape’)
 * New institutionalism? - Gordon-Nesbitt, Montmann
+* Elaboration of **occupation**
